@@ -1,0 +1,10 @@
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\bin\Debug\Graphics_HW6.exe.config
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\bin\Debug\Graphics_HW6.exe
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\bin\Debug\Graphics_HW6.pdb
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\obj\Debug\Graphics_HW6.Properties.Resources.resources
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\obj\Debug\Graphics_HW6.csproj.GenerateResource.Cache
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\obj\Debug\Graphics_HW6.csproj.CoreCompileInputs.cache
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\obj\Debug\Graphics_HW6.exe
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\obj\Debug\Graphics_HW6.pdb
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\obj\Debug\Graphics_HW6.csprojResolveAssemblyReference.cache
+C:\Users\vasudev2296\source\repos\Graphics_HW6\Graphics_HW6\obj\Debug\Graphics_HW6.GraphicsForm.resources
