@@ -1,0 +1,10 @@
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\bin\Debug\RadioGUI.exe.config
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\bin\Debug\RadioGUI.exe
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\bin\Debug\RadioGUI.pdb
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\obj\Debug\RadioGUI.csprojResolveAssemblyReference.cache
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\obj\Debug\RadioGUI.Form1.resources
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\obj\Debug\RadioGUI.Properties.Resources.resources
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\obj\Debug\RadioGUI.csproj.GenerateResource.Cache
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\obj\Debug\RadioGUI.csproj.CoreCompileInputs.cache
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\obj\Debug\RadioGUI.exe
+C:\Users\vasudev2296\source\repos\RadioGUI\RadioGUI\obj\Debug\RadioGUI.pdb
