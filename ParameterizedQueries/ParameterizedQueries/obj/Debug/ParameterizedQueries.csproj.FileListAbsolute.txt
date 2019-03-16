@@ -1,0 +1,10 @@
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\bin\Debug\ParameterizedQueries.exe.config
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\bin\Debug\ParameterizedQueries.exe
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\bin\Debug\ParameterizedQueries.pdb
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\obj\Debug\ParameterizedQueries.csprojResolveAssemblyReference.cache
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\obj\Debug\ParameterizedQueries.ParameterizedQueries.resources
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\obj\Debug\ParameterizedQueries.Properties.Resources.resources
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\obj\Debug\ParameterizedQueries.csproj.GenerateResource.Cache
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\obj\Debug\ParameterizedQueries.csproj.CoreCompileInputs.cache
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\obj\Debug\ParameterizedQueries.exe
+C:\Users\vasudev2296\source\repos\ParameterizedQueries\ParameterizedQueries\obj\Debug\ParameterizedQueries.pdb
